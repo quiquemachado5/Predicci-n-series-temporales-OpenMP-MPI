@@ -1,2 +1,2 @@
-# Predicci-n-series-temporales-OpenMP-MPI
+# Prediccion-series-temporales-OpenMP-MPI
 Predicción series temporales OpenMP / MPI 
